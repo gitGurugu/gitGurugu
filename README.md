@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitGurugu)
-</div>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitGurugu)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitGurugu" alt="Top Langs">
+</p>
