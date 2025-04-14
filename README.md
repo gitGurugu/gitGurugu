@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=gitGurugu&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
 
