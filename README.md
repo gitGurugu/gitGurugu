@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/gitGurugu/gitGurugu/master/github-metrics.svg" alt="Contribution Graph" style="max-width: 100%; height: auto;">
 </p>
---》
+-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitGurugu)
