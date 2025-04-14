@@ -37,10 +37,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitGurugu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gitGurugu" /> </div>
 
 <picture>
 <source media="(prefers-color-scheme:dark)"srcset="https://raw.githubusercrcontent.com/gitGurugu/gitGurugu/output/github-contribution-grid-snake-dark.svg"
