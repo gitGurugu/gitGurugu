@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gitGurugu/gitGurugu/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub Metrics](https://raw.githubusercontent.com/gitGurugu/gitGurugu/master/github-metrics.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gitGurugu/gitGurugu/master/github-metrics.svg" alt="Contribution Graph" style="max-width: 100%; height: auto;">
+</p>
 
