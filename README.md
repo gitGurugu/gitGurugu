@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitGurugu" alt="Top Langs">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitGurugu" alt="Top Langs">
+</p>
