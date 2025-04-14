@@ -49,16 +49,31 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/gitGurugu/gitGurugu/master/github-metrics.svg" alt="Contribution Graph" style="max-width: 100%; height: auto;">
 </p>
 -->
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitGurugu" alt="Top Langs">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitGurugu" alt="Top Langs">
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitGurugu" alt="Top Langs">
 </p>
+
+
 <p align="center">
-  <img src="https://github-immortality.vercel.app/api?username=gitGurugu" alt="Top Langs">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=gitGurugu&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
+<p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/gitGurugu"><img src="https://img.shields.io/badge/GitHub-gitGurugu-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+
