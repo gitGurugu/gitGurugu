@@ -18,8 +18,9 @@ Here are some ideas to get you started:
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=%E6%88%91%E6%98%AFgitGurugu;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91Github%E4%B8%BB%E9%A1%B5" alt="Typing SVG" /></a>
-
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=%E6%88%91%E6%98%AFgitGurugu;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91Github%E4%B8%BB%E9%A1%B5" alt="Typing SVG" /></a>
+</p>
 
 
 <p align="center">
