@@ -44,6 +44,11 @@
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=The+Hamptons+5+Era;Durant+FMVP+First+Ring;16-1+Playoff+Record;Greatest+team+ever+assembled" alt="Typing SVG" />
 
+<img align="right" src="https://media.giphy.com/media/5Ygur6nFBRAQHs4NbO/giphy.gif" width="420"></img>
+
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Steph+Curry+The+Dragon+Roar;402+Three+Pointers+In+One+Season;Brother+Its+Good;Night+Night+Celebration" alt="Typing SVG" />
+
+
 ```go
 type SuperCoder interface {
     GetProgrammingSkills() [][]string
