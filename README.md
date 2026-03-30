@@ -36,9 +36,13 @@
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Paris+2024+Olympic+Nights;Chasing+dreams+by+the+Seine;Nightlight+goodnight+from+Paris" alt="Typing SVG" />
 
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaGgxOGh4ZHFjM2Fxb2ozNHU4dmlpaXN2M2NvbzQ0MHk3czVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRC3FlKFIj2WAIMDR3/giphy.gif" width="420">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5xbnJ3aHRydXdhZzJ6dThja2owcjhrN3I2a2Q5a2x5YTVtcG9sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LrwT3NZKJ1d3suuBVO/giphy.gif" width="420">
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Dwell+in+the+realm+of+bliss;Waltz+with+existence%2C+frolic+with+the+universe" alt="Typing SVG" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Steph+Curry+2022+FMVP;Defeated+Celtics+in+Game+6;Greatest+ shooter+in+NBA+History" alt="Typing SVG" />
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5xbnJ3aHRydXdhZzJ6dThja2owcjhrN3I2a2Q5a2x5YTVtcG9sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyegJwU5gVTPnTq/giphy.gif" width="420"></img>
+
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=The+Hamptons+5+Era;Durant+FMVP+First+Ring;16-1+Playoff+Record;Greatest+team+ever+assembled" alt="Typing SVG" />
 
 
 
