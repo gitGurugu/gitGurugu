@@ -109,10 +109,10 @@ var _ SpecialMan = (*GitGurugu)(nil)
 ```
 
 
-<p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
-</p>
+<img width="900" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab,docker,kubernetes,terraform,prometheus,linux,rust,ollama,langchain,git&titles=true" alt="Skill Icons" title="Skill Icons">
+
+
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/gitGurugu"><img src="https://img.shields.io/badge/GitHub-gitGurugu-blue?logo=github" alt="GitHub" title="GitHub" /></a>
