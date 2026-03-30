@@ -35,40 +35,63 @@
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Dwell+in+the+realm+of+bliss;Waltz+with+existence%2C+frolic+with+the+universe" alt="Typing SVG" />
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
 
-```typescript
-interface ISuperCoder {
-    getProgrammingSkills(): string[][];
-    getSoftwareSkills(): string[];
+```go
+type SuperCoder interface {
+    GetProgrammingSkills() [][]string
+    GetSoftwareSkills() []string
 }
 
-interface ISpecialMan {
-    getHobbies(): string[];
+type SpecialMan interface {
+    GetHobbies() []string
 }
 
-class Drunksweet implements ISuperCoder, ISpecialMan {
-    private enName: string = "drunksweet";
-    private hometown: string = "WenZhou ZheJiang | 浙江温州";
-    private birthday: string = "2005/07/30";
-    private university: string = "CCNU";
-    private degree: string = "undergraduate";
-    private currentFocus: string = "Astro && React-Native";
-
-    getProgrammingSkills(): string[][] {
-        return [
-            ["JavaScript", "TypeScript", "Java", "Python", "Swift"],
-            ["Frontend", "React-Native", "Android", "iOS"],
-        ];
-    }
-
-    getSoftwareSkills(): string[] {
-        return ["Version Control", "CI/CD", "Design Patterns"];
-    }
-
-    getHobbies(): string[] {
-        return ["Skateboard🛹", "Singing🎤", "history🛞"];
-    }
+type GitGurugu struct {
+	enName       string
+	hometown     string
+	birthday     string
+	university   string
+	degree       string
+	currentFocus string
 }
 
+func NewGitGurugu() *GitGurugu {
+	return &GitGurugu{
+		enName:       "gitGurugu",
+		hometown:     "Zhoushan ZheJiang | 浙江舟山",
+		birthday:     "2004/04/23",
+		university:   "CCNU",
+		degree:       "undergraduate",
+		currentFocus: "LLMOps && Cloud-Native && Mobile GUI Agent && Linux Kernel && Code Generation",
+	}
+}
+
+func (g *GitGurugu) GetProgrammingSkills() [][]string {
+	return [][]string{
+		{"Go", "Rust", "Python", "C", "TypeScript"},
+		{"LLMOps", "Kubernetes", "Linux Kernel", "Mobile Agent", "Code Generation"},
+	}
+}
+
+func (g *GitGurugu) GetSoftwareSkills() []string {
+	return []string{"Docker", "Kubernetes", "Terraform", "Prometheus", "Git"}
+}
+
+func (g *GitGurugu) GetHobbies() []string {
+	return []string{"Skiing", "Basketball", "Swimming", "Golf"}
+}
+
+func (g *GitGurugu) ImplementsSuperCoder() bool {
+	_, ok := interface{}(g).(SuperCoder)
+	return ok
+}
+
+func (g *GitGurugu) ImplementsSpecialMan() bool {
+	_, ok := interface{}(g).(SpecialMan)
+	return ok
+}
+
+var _ SuperCoder = (*GitGurugu)(nil)
+var _ SpecialMan = (*GitGurugu)(nil)
 ```
 
 
