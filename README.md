@@ -80,7 +80,9 @@ func NewGitGurugu() *GitGurugu {
 		company:      "Open to Opportunities",
 		currentFocus: "LLMOps && Cloud-Native && Mobile GUI Agent && Linux Kernel && Code Generation",
 		location:     "Wuhan Hubei | 湖北武汉",
-		email:        "your.email@example.com",
+		email:        "jialekong2004@mails.ccnu.edu.cn",
+        website:      "https://gitgurugu.github.io/",
+		language:     "Chinese, English",
 	}
 }
 
