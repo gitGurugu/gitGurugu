@@ -6,10 +6,16 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=%E6%88%91%E6%98%AFgitGurugu;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91Github%E4%B8%BB%E9%A1%B5" alt="Typing SVG" /></a>
 </p>
 
-
 <div align="center">
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=gitGurugu&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
 </div>
+
+
+
 
 
 
@@ -23,18 +29,48 @@
 </picture>
 
 
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/gitGurugu/gitGurugu/master/github-metrics.svg" alt="Contribution Graph" style="max-width: 100%; height: auto;">
-</p>
--->
-<p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gitGurugu&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
+# <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce Myself
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitGurugu" alt="Top Langs">
-</p>
+<img align="right" src="https://media.giphy.com/media/qMA60yQ2fUkXzm7WD2/giphy.gif?cid=ecf05e47i13dl3ixlq1ju3gpdul4qvf85la5ez7kfk460ngp&ep=v1_gifs&rid=giphy.gif&ct=s" width="420"></img>
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Dwell+in+the+realm+of+bliss;Waltz+with+existence%2C+frolic+with+the+universe" alt="Typing SVG" />
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
+
+```typescript
+interface ISuperCoder {
+    getProgrammingSkills(): string[][];
+    getSoftwareSkills(): string[];
+}
+
+interface ISpecialMan {
+    getHobbies(): string[];
+}
+
+class Drunksweet implements ISuperCoder, ISpecialMan {
+    private enName: string = "drunksweet";
+    private hometown: string = "WenZhou ZheJiang | 浙江温州";
+    private birthday: string = "2005/07/30";
+    private university: string = "CCNU";
+    private degree: string = "undergraduate";
+    private currentFocus: string = "Astro && React-Native";
+
+    getProgrammingSkills(): string[][] {
+        return [
+            ["JavaScript", "TypeScript", "Java", "Python", "Swift"],
+            ["Frontend", "React-Native", "Android", "iOS"],
+        ];
+    }
+
+    getSoftwareSkills(): string[] {
+        return ["Version Control", "CI/CD", "Design Patterns"];
+    }
+
+    getHobbies(): string[] {
+        return ["Skateboard🛹", "Singing🎤", "history🛞"];
+    }
+}
+
+```
+
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
