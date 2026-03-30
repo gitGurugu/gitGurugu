@@ -32,6 +32,8 @@
 # <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce Myself
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaGgxOGh4ZHFjM2Fxb2ozNHU4dmlpaXN2M2NvbzQ0MHk3czVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EiB7h5KhHSiPEIA29c/giphy.gif" width="420"></img>
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaGgxOGh4ZHFjM2Fxb2ozNHU4dmlpaXN2M2NvbzQ0MHk3czVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRC3FlKFIj2WAIMDR3/giphy.gif" width="45">
+
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Dwell+in+the+realm+of+bliss;Waltz+with+existence%2C+frolic+with+the+universe" alt="Typing SVG" />
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=drunksweet&bg_color=fff1b0&text_color=ff0055&title_color=ff0055&icon_color=ff0055" width="420"></img>
 
