@@ -36,7 +36,7 @@
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Paris+2024+Olympic+Nights;Chasing+dreams+by+the+Seine;Nightlight+goodnight+from+Paris" alt="Typing SVG" />
 
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5xbnJ3aHRydXdhZzJ6dThja2owcjhrN3I2a2Q5a2x5YTVtcG9sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LrwT3NZKJ1d3suuBVO/giphy.gif" width="420">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5xbnJ3aHRydXdhZzJ6dThja2owcjhrN3I2a2Q5a2x5YTVtcG9sbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LrwT3NZKJ1d3suuBVO/giphy.gif" width="300">
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Steph%20Curry%202022%20FMVP;Defeated%20Celtics%20in%20Game%206;Greatest%20shooter%20in%20NBA%20History" alt="Typing SVG" />
 
