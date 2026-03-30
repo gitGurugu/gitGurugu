@@ -109,8 +109,7 @@ var _ SpecialMan = (*GitGurugu)(nil)
 ```
 
 
-<img width="900" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab,docker,kubernetes&titles=true" alt="Skill Icons" title="Skill Icons">
-<img width="900" src="https://go-skill-icons.vercel.app/api/icons?i=terraform,prometheus,linux,rust,ollama,langchain,git,ansible,redis,postgres,mongodb,nginx,tensorflow,openai,fastapi,flutter&titles=true" alt="Skill Icons" title="Skill Icons">
+<img width="900" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab,docker,kubernetes,terraform,prometheus,linux,rust,ollama,langchain,git,ansible,redis,postgres,mongodb,nginx,tensorflow,fastapi&titles=true" alt="Skill Icons" title="Skill Icons">
 
 
 
