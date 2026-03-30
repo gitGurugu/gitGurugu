@@ -31,7 +31,7 @@
 
 # <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce Myself
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaGgxOGh4ZHFjM2Fxb2ozNHU4dmlpaXN2M2NvbzQ0MHk3czVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EiB7h5KhHSiPEIA29c/giphy.gif" width="420" height="300"></img>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaGgxOGh4ZHFjM2Fxb2ozNHU4dmlpaXN2M2NvbzQ0MHk3czVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EiB7h5KhHSiPEIA29c/giphy.gif" width="420" height="270"></img>
 
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F7922D&center=true&vCenter=true&random=true&width=420&lines=Paris+2024+Olympic+Nights;Chasing+dreams+by+the+Seine;Nightlight+goodnight+from+Paris" alt="Typing SVG" />
 
