@@ -73,9 +73,14 @@ func NewGitGurugu() *GitGurugu {
 		enName:       "gitGurugu",
 		hometown:     "Zhoushan ZheJiang | 浙江舟山",
 		birthday:     "2004/04/23",
+		age:          "22",
 		university:   "CCNU",
+		major:        "Computer Science",
 		degree:       "undergraduate",
+		company:      "Open to Opportunities",
 		currentFocus: "LLMOps && Cloud-Native && Mobile GUI Agent && Linux Kernel && Code Generation",
+		location:     "Wuhan Hubei | 湖北武汉",
+		email:        "your.email@example.com",
 	}
 }
 
