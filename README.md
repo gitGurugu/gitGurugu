@@ -29,7 +29,7 @@
 </picture>
 
 
-# <img align="left" src="https://media.giphy.com/media/lWhq4Gw6etsj5WKY2p/giphy.gif?cid=ecf05e47092t9nhdl1sc81elpj04to3aypl3t97v7hvjepqn&ep=v1_gifs&rid=giphy.gif&ct=s" width="45">Introduce Myself
+# <img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWRvdWNqMHk2Zm12cnl1c2c1ZHlzNmR2cDh5OGNhNTk1aHM0ZzV6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GewhWWHwRJDyUFTOSw/giphy.gif" width="45">Introduce Myself
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaGgxOGh4ZHFjM2Fxb2ozNHU4dmlpaXN2M2NvbzQ0MHk3czVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EiB7h5KhHSiPEIA29c/giphy.gif" width="420" height="270"></img>
 
