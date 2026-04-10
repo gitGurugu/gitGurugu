@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 21 users
+                            Followed by 22 users
                         </div>
                     </section>
                     <section>
@@ -2108,10 +2108,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    21 followers
+                    22 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYDBQcI/8QALxAAAQMDAgQEBAcAAAAAAAAAAQIDEQAEBRIhBhMUMSIjUXEWMjNBNEJhYnKRof/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAf/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMEETEi0RIhwf/aAAwDAQACEQMRAD8A5qbYKuwJNMuJ4SuL/C3F8hy2bW0rQll0qDjp2+T7RuBv96YLHE4TIIQ3jA/1filvq0mQCIMaR6+tOOVLmDwtmm0vHW8c3cS+044JB0EyiBuNjt6j9aqsDww1u1PVcJCXP0sRdtC08tsg+Ekb0Uzy0oAUN6d+Rw5lVLumuuYancvuJRJ3/ORG9G/B1o+ht2yssg+wtAKXEPpg7fxpOJ9fR2h5776VPjcLfYRq7vH2DburQENau8TJ2mR2Hep7viRT7bbWpYYWrzWldlQCIP8AdGtlT31VrVqWZk+1S5fLXDi8s8tLRcUpkk6P2rqm7WELs7WwSlzcILhTIm6yvNfUUWbauWOWIgEaJHtAIj0pu4cc6a2ukaHPxC/MuCpbjkQNSiNp2/ys9Vk7m6Gl1Q0pkAJERWiayw0wluAC0kn3ikoQtcCSENqQggBf/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QALRAAAQMDAwEFCQEAAAAAAAAAAQIDBAAFEQYTIRIiMlFhcQcUFRYlMUGBwbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAZEQACAwEAAAAAAAAAAAAAAAABAgADESH/2gAMAwEAAhEDEQA/AEVtujnU9/vzuppEG1PswY0XgqdIy4cAk+nNJLahRFeLxb5GsVriPolIU7hTio6lkcFJb+3Io7SQuiLSFZsMUNJSpsy1/Utsy2ldCnG+44MAhY/RFWumoOj7hDlNyIjCyJEUoDrJbKA3xgY8c4rRUiaR2YYhXIELtXamfYuHwuC9tL28uODv5IJwPDj/AGsVGhrhSw6h0bnfSpQ5z/anatkOfNclfV2veHUZ8gOKrPuKUy2onnbP8qytEdcIkbO6NoM1Nqu0i2RzIju9vPW8SM7g86T7ZLTPgMSUrSncTkjwNCLr629OvrTjqDf59DSZ7PX3DZHU9XCHyhPoEIpbKxnISOSez//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgEDBAUHCP/EACwQAAEDAgUDAgYDAAAAAAAAAAECAwQFEQAGEiExBxNBInEUFRYyUZFhssH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AA+nMLqR1IelxadnCawlnSXO9McSPJBsN+R4GNTqfR3NAotNVVc8VgzmWXFTBEkPOmSq/oCLkbgbXI32GGumVVj5FyXJVBZck1SeXe6pIsIqhpDd7m1rrO/8AgwTU3OdTjyPmcqkyZceSpIbecUNAIQi5vYXI3+wW5/GA5bhS6r86HxVUqjjQUoaH5ClrsQeRfnF11Sg005pV9Iy5BpgZQBZ1xfr3vuT7Y2is5WTmvMMyrwILMGM+Q6lLjQbJ2uVkJACrne5ve/PGIMnpTSVOlUqmTZbp3Ljb5KfYfj2wB5TKQ3OhNxqeyoyB3HG3S0FdtPBKDxffRzcXuRyME+YKTMSw3IZfloKA2HmHHAtMohFt/Pc4t4JG/wDCZfSWmwEOLCUyWmQm+wQOyoD9rV+8F9W+2MPHxDf9hgBmVlxbEVEmQ60pTTdntDZB0+Te+9vYXF8W8WmqZjobS4tISLANgaR7YmVdJFNqJ1qILDmxOw9B4w9KZ7jgV3XUbDZKrDAf/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwL/xAAsEAABBAECBQMCBwAAAAAAAAABAgMEEQUABhITIUFRBzGRQoEUIjNhcaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQFAv/EAB8RAAIBBAIDAAAAAAAAAAAAAAECAAMEERIiMSFBgf/aAAwDAQACEQMRAD8AyrJZIMstsqHKdHQ2kIQAOnbVjgsCnIYfJ5NGWbbXFe5TbrbJWb9xV+wrv1u9aJu1OByGWj49bqGm2rQy00OAFDSFngBHtZWB9v20K3nuLG7admYFlmQyjlJfAbN8x2/rNg9vjU8g9AeZSV1KgsfkotwLfd9PFOyyFSPxRaUoCrKA4L1L9NX24OFlokMuBS5a1psfTwpA/wA0Id3ZMl4dWOlIaCQ6Hm1oRRSaII/u/tqZt3NjHY7hkM8xTzingqx1BNefIOnFBVcSexyZrONhtZsQpuVcdAiSg62l4rcLlFBsmhQutE8/sufu7Joy65CITUpQaYS8Pzup6njokGj286X5WW7DwUdljgDJjyXFoKRSyFIUOLz1SNE8m4qHmEsxFKYbakJQkNkiqBo/zpO4dqfJYxaoKnAzrMbUTAxOO2kZEKPJmW6zNkFAbcN3RUmyLICRfnVC36a5qIgMZ3E5FMhH6fI4XEFs9QQpNg9SrvpdPmyMhCSmY6XUQ8nHZZSQKSniKa+Cfk6RRpzjUZppAHA2kJSLV0Hj31q2usLsR3CvS2bUep//2Q==" width="28" height="28" alt="" />
@@ -2615,7 +2616,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
@@ -2977,7 +2978,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2026, 00:41:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2026, 01:41:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
